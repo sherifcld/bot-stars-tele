@@ -52,5 +52,62 @@
     "rawCallback": null,
     "createdAt": "2026-02-20T04:22:54.166Z",
     "updatedAt": "2026-02-20T04:22:54.166Z"
+  },
+  {
+    "id": "mlufby7x-tugbljj4",
+    "provider": "pakasir",
+    "providerReference": "ORD-1771563775568",
+    "method": "qris",
+    "amount": 5345,
+    "currency": "IDR",
+    "status": "UNPAID",
+    "rawRequest": {
+      "project": "sherif-payment",
+      "order_id": "ORD-1771563775568",
+      "amount": 5000,
+      "api_key": "5kM3YYt3PrNZoKxAlo92UgBvYmoy1u4q",
+      "paymentNumber": "00020101021226610016ID.CO.SHOPEE.WWW01189360091800216005230208216005230303UME51440014ID.CO.QRIS.WWW0215ID10243228429300303UME52047929530336054075345.005802ID5907Pakasir6012KAB. KEBUMEN610554392622205181448554138185947546304F414",
+      "expiredAt": "2026-02-20T06:02:57.939010974Z",
+      "paymentMethod": "qris"
+    },
+    "rawCallback": null,
+    "createdAt": "2026-02-20T05:02:56.253Z",
+    "updatedAt": "2026-02-20T05:02:56.253Z"
+  },
+  {
+    "id": "mlufiooj-zb3c3jig",
+    "provider": "pakasir",
+    "providerReference": "00020101021226610016ID.CO.SHOPEE.WWW01189360091800216005230208216005230303UME51440014ID.CO.QRIS.WWW0215ID10243228429300303UME520479295303360540825485.005802ID5907Pakasir6012KAB. KEBUMEN610554392622205181299395871752678696304FB6E",
+    "method": "qris",
+    "amount": 25485,
+    "currency": "IDR",
+    "status": "UNPAID",
+    "rawRequest": {
+      "project": "sherif-payment",
+      "order_id": "ORD-1771564089884",
+      "amount": 25000,
+      "api_key": "5kM3YYt3PrNZoKxAlo92UgBvYmoy1u4q"
+    },
+    "rawCallback": null,
+    "createdAt": "2026-02-20T05:08:10.483Z",
+    "updatedAt": "2026-02-20T05:08:10.483Z"
+  },
+  {
+    "id": "mlufqhe2-ei1sj9y6",
+    "provider": "pakasir",
+    "providerReference": "00020101021226610016ID.CO.SHOPEE.WWW01189360091800216005230208216005230303UME51440014ID.CO.QRIS.WWW0215ID10243228429300303UME5204792953033605409252500.005802ID5907Pakasir6012KAB. KEBUMEN610554392622205181052059693115791386304EE1D",
+    "method": "qris",
+    "amount": 252500,
+    "currency": "IDR",
+    "status": "UNPAID",
+    "rawRequest": {
+      "project": "sherif-payment",
+      "order_id": "ORD-1771564453307",
+      "amount": 250000,
+      "api_key": "5kM3YYt3PrNZoKxAlo92UgBvYmoy1u4q"
+    },
+    "rawCallback": null,
+    "createdAt": "2026-02-20T05:14:14.282Z",
+    "updatedAt": "2026-02-20T05:14:14.282Z"
   }
 ]

@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "mlufibp2-wq6aljlk",
+    "key": "stars_pricing",
+    "value": {
+      "unitPrice": 500,
+      "minOrder": 50,
+      "maxOrder": 100000000000000000
+    },
+    "createdAt": "2026-02-20T05:07:53.654Z",
+    "updatedAt": "2026-02-20T05:07:53.654Z"
+  }
+]
